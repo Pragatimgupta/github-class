@@ -1,2 +1,2 @@
 # github-class
-learning github
+learning github.
